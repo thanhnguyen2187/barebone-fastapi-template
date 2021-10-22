@@ -1,0 +1,1 @@
+from barebone_fastapi_template.integration.fastapi import app
